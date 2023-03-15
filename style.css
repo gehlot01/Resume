@@ -1,0 +1,53 @@
+body{
+    border: 5px black solid;
+    padding: 10px;
+    width: 30%;
+    margin: 30px auto;
+    position: relative;
+    box-sizing: border-box;
+}
+header {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+pre {
+    text-align: left;
+}
+
+image {
+    width: 50px;
+
+}
+span{
+    font-weight: bold;
+    font-size: 18px;
+}
+dt{
+    font-weight: bold;
+    margin: 10px;
+}
+pre{
+    font-family: 'Times New Roman', Times, serif;
+}
+table, td, th {
+    border: black solid 1px;
+    word-wrap: normal;
+    border-spacing: 0;
+
+}
+p{
+    text-align: right;
+}
+img{
+    float: right;
+    position: absolute;
+    right: 10px;
+    padding: 5px;
+    margin: auto;
+    width: 20%;
+    max-width: 100px;
+    top: 20px;
+    
+}
